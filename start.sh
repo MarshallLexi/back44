@@ -1,6 +1,6 @@
 #!/bin/sh
 
-PORT=3000
+PORT=8080
 UUID=42f06e02-55ee-4317-9f6c-d3e794b66f41
 WebPage=https://bing.com
 CaddyConfig=https://raw.githubusercontent.com/bsefwe/Rail/main/etc/Caddyfile
